@@ -11,7 +11,8 @@
     position:fixed;margin-left:150px;margin-top:25px;
 }
 .pic img{
-    width:100%;position: fixed;s
+    width:100%;position:absolute;
+    height: 100%;
 }
 .secbar a{
     position:absolute;
